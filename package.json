@@ -1,0 +1,23 @@
+{
+  "name": "drawlots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tarot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pwa": "create-pwa --icon=\"./images/lots.png\" --launch=\"./images/bg.jpg\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckhtpe/drawLots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckhtpe/drawLots/issues"
+  },
+  "homepage": "https://github.com/ckhtpe/drawLots#readme",
+  "devDependencies": {
+    "create-pwa": "^2.3.0"
+  }
+}
